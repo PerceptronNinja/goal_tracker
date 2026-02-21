@@ -1,0 +1,26 @@
+[
+    {
+        "title": "running",
+        "type": "daily",
+        "completed": true,
+        "reminder_time": "06:00"
+    },
+    {
+        "title": "RUnning",
+        "type": "daily",
+        "completed": false,
+        "reminder_time": "05:00"
+    },
+    {
+        "title": "breakfast",
+        "type": "Daily",
+        "completed": false,
+        "reminder_time": "07:00"
+    },
+    {
+        "title": "lose 10 kg",
+        "type": "monthly",
+        "completed": false,
+        "reminder_time": null
+    }
+]
