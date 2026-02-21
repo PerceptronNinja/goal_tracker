@@ -1,26 +1,41 @@
 [
     {
         "title": "running",
-        "type": "daily",
+        "repeat_type": "daily",
         "completed": true,
-        "reminder_time": "06:00"
+        "reminder_time": "17:13",
+        "custom_days": null,
+        "last_completed_date": "2026-02-21",
+        "current_streak": 1,
+        "best_streak": 1,
+        "history": [
+            "2026-02-21"
+        ]
     },
     {
-        "title": "RUnning",
-        "type": "daily",
-        "completed": false,
-        "reminder_time": "05:00"
+        "title": "study",
+        "repeat_type": "daily",
+        "completed": true,
+        "reminder_time": "17:15",
+        "custom_days": null,
+        "last_completed_date": "2026-02-21",
+        "current_streak": 1,
+        "best_streak": 1,
+        "history": [
+            "2026-02-21"
+        ]
     },
     {
-        "title": "breakfast",
-        "type": "Daily",
-        "completed": false,
-        "reminder_time": "07:00"
-    },
-    {
-        "title": "lose 10 kg",
-        "type": "monthly",
-        "completed": false,
-        "reminder_time": null
+        "title": "study",
+        "repeat_type": "monthly",
+        "completed": true,
+        "reminder_time": "17:15",
+        "custom_days": null,
+        "last_completed_date": "2026-02-21",
+        "current_streak": 1,
+        "best_streak": 1,
+        "history": [
+            "2026-02-21"
+        ]
     }
 ]
