@@ -180,16 +180,6 @@ docker-compose up --build
 
 ------------------------------------------------------------------------
 
-# 🎯 Resume-Ready Project Description
-
-Designed and developed an AI-powered habit optimization platform using
-PostgreSQL, Streamlit, personalized machine learning models,
-reinforcement learning strategies, and local LLaMA integration.
-Implemented secure authentication and clean architecture principles,
-making the system scalable and production-ready.
-
-------------------------------------------------------------------------
-
 # 🔮 Future Improvements
 
 -   Async ML retraining
@@ -207,9 +197,3 @@ making the system scalable and production-ready.
 Utkarsh Pal\
 AI & ML Enthusiast\
 MCA \| Big Data Analytics
-
-------------------------------------------------------------------------
-
-# 📄 License
-
-This project is for educational and portfolio demonstration purposes.
